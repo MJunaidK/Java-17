@@ -1,0 +1,11 @@
+Directory Contents: 
+C:\Junaid\2024\workspaces\java17_ws\Java-17\Section-20 Input & Output, Working with Files\DirectoryFileChallenge\public
+C:\Junaid\2024\workspaces\java17_ws\Java-17\Section-20 Input & Output, Working with Files\DirectoryFileChallenge\public\assets
+C:\Junaid\2024\workspaces\java17_ws\Java-17\Section-20 Input & Output, Working with Files\DirectoryFileChallenge\public\assets\icons
+C:\Junaid\2024\workspaces\java17_ws\Java-17\Section-20 Input & Output, Working with Files\DirectoryFileChallenge\public\assets\icons\index.txt
+C:\Junaid\2024\workspaces\java17_ws\Java-17\Section-20 Input & Output, Working with Files\DirectoryFileChallenge\public\assets\icons\indexCopy.txt
+C:\Junaid\2024\workspaces\java17_ws\Java-17\Section-20 Input & Output, Working with Files\DirectoryFileChallenge\public\assets\index.txt
+C:\Junaid\2024\workspaces\java17_ws\Java-17\Section-20 Input & Output, Working with Files\DirectoryFileChallenge\public\assets\indexCopy.txt
+C:\Junaid\2024\workspaces\java17_ws\Java-17\Section-20 Input & Output, Working with Files\DirectoryFileChallenge\public\index.txt
+C:\Junaid\2024\workspaces\java17_ws\Java-17\Section-20 Input & Output, Working with Files\DirectoryFileChallenge\public\indexCopy.txt
+Generated: 2024-12-17T09:29:17.589040500
